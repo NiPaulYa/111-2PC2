@@ -18,16 +18,16 @@
 1. 由於JAVA中語言的變數具有形態，其形態會讓JAVA在編譯時計算出需要多少記憶體大小；PYTHON3中，也加入了型態，請用PYTHOON宣告一整數或字串型態變數，並隨意給值。
 
    答案：
-   ```
+```
    py
- class plus:
+   class plus:
      firstnum: int =5
      secondnum: int =6
      def getSum(self) -> int:
          return self.firstnum +self.secondum
 
- plan = pius()
- print(plan.getum())
+      plan = pius()
+     print(plan.getum())
 ```
 2. 何謂物件導向？物件導向的物件與學習過的變數是否有相關性？
 
